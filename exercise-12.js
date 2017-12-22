@@ -23,6 +23,6 @@ function balikString(argumen){
     return vArgumen
 }
 
-var makanans = ['i am', 'student', 'at hacktiv8'];
+var makanans = ['dodol', 'makanan', 'enak'];
 argumen = makanans.join(' ');
 balikString(argumen)
