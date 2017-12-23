@@ -1,4 +1,4 @@
-SOAL
+// SOAL
 // Buatlah sebuah fungsi dengan nama dataHandling dengan sebuah parameter untuk menerima argumen. Argumen yang akan
 // diterima adalah sebuah array yang berisi beberapa array sejumlah n. Contoh input dapat dilihat dibawah:
 //contoh input
