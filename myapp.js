@@ -1,5 +1,6 @@
 // APLIKASI UJI PENGETAHUAN TETANG MANGA
-// pseudocode aplikasi ini ada di file pseudocode.md 
+// pseudocode aplikasi ini ada di file pseudocode.md link dibawah
+// https://github.com/yasirmaulana/h8-p0-w2/blob/master/pseudocode.md
 
 alert('selamat datang di Know MangaKu. \nKnow MangaKu adalah sebuah portal uji pengetahuan tentang manga.')
 var txt;
